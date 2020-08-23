@@ -6,3 +6,6 @@ https://academictorrents.com/details/015f31a94c600256868be155358dc114157507fc
 
 2. Use this data to do segmentation:
 https://github.com/anlthms/dsb-2017
+
+3. Full Preprocessing Tutorial
+https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial
